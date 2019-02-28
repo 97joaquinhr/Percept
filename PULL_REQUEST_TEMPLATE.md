@@ -8,8 +8,3 @@ Revisar y llenar el formato antes de aprobar o rechazar un pull request.
  - [ ] *Declaración* - Verificar que cada variable haya sido declarada, y que no se use fuera del alcance de su declaración.
  - [ ] *Formato* - Verificar que cada línea de código cumple con el formato establecido en la guía de estilos.
  - [ ] *Lenguaje* - Verificar que cada variable y función estén escritas en inglés.
- 
- 
- | No. | Defecto | Línea | Mayor/Menor |
-|------|:---------------|--------------------|:--------------------|
-|      |                 |                    |  |
