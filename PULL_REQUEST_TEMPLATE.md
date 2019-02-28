@@ -10,6 +10,6 @@ Revisar y llenar el formato antes de aprobar o rechazar un pull request.
  - [ ] *Lenguaje* - Verificar que cada variable y función estén escritas en inglés.
  
  
- | No. | Defecto | Línea |
-|------|:---------------:|--------------------|
-|      |                 |                    | 
+ | No. | Defecto | Línea | Mayor/Menor |
+|------|:---------------|--------------------|:--------------------|
+|      |                 |                    |  |
